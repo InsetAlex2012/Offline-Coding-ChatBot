@@ -1,6 +1,6 @@
 # Coding Chatbot (Offline Semantic Q&A Bot)
 
-(![Screenshot of the ChatBot window]screenshot)
+!([Screenshot of the ChatBot window]screenshot)
 
 A fully offline coding assistant chatbot built with Python, Tkinter, and SentenceTransformers.  
 It uses local NLP embeddings (no internet API calls) to understand coding-related questions and respond using semantic similarity matching from a predefined knowledge base.
